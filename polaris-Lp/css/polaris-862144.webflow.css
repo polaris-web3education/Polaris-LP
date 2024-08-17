@@ -409,6 +409,8 @@ p {
   border-radius: 7px;
   width: 100%;
   margin-bottom: 20px;
+  max-width: 430px;
+  max-height: 360px;
 }
 
 .white-text {
@@ -438,8 +440,9 @@ p {
 }
 
 .image {
-  border: 1px solid #000;
   border-radius: 7px;
+  max-width: 267px;
+  max-height: 250px;
 }
 
 .heading {
@@ -451,7 +454,7 @@ p {
 }
 
 .heading-2 {
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .image-3 {
